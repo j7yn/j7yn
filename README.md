@@ -9,7 +9,7 @@
         or remember when things are happening and where. To mitigate this, I plan on launching the mod for all of the player base!
     
 
-✨ Check out my other projects like CC3K+ and Particle Simulation!
+✨ Check out my other projects like CC3K+, Particle Simulation , and the Black-Scholes Pricing Option App!
 
 📫 Reach me through my email: h33jeong@uwaterloo.ca or through my personal email: jhajin273@gmail.com
 
