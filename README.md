@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a full-stack NBA app that displays current games and statistics but with a twist - For those who like sports betting (like me) there will be a feature to predict and estimate certain players' stats for upcoming games by training my own AI model, stay tuned!
 
-✨ Check out my other projects like CC3K+ and Verlet Integration
+✨ Check out my other projects like CC3K+ and Particle Simulation!
 
 📫 Reach me through my email: h33jeong@uwaterloo.ca or through my personal email: jhajin273@gmail.com
 
