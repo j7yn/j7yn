@@ -1,21 +1,24 @@
-## Hi, my name is Hajin Jeong, studying computer science at the University of Waterloo! I'm currently finishing up my 2nd year, going into my 3rd.
+# Hi, I'm Hajin Jeong 
 
-🔭 I’m currently working on a 2 projects! 
+I'm interested in fullstack and backend development, alongside game design and graphical development
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,react,nodejs,nextjs,express,js,html,css,postgres,mysql,aws,azure,fastapi)](https://skillicons.dev)
 
-    1. A full-stack NBA app that displays current games and statistics but with a twist - For those who like sports betting (like me), 
-        there will be a feature to predict and estimate certain players' stats for upcoming games by training my own AI model. 
-    2. A Hypixel Skyblock App (desktop and IOS) that sends notifications to the player regarding the many different events and timed 
-        deadlines within the game. Since the game has so many different events and timed deadlines, it is hard to keep up with everything 
-        or remember when things are happening and where. To mitigate this, I plan on launching the mod for all of the player base!
-    
+##### Currently Learning 📚
+[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter)](https://skillicons.dev)
 
-✨ Check out my other projects like CC3K+, Particle Simulation , and the Black-Scholes Pricing Option App!
+### About Me 👾
 
-📫 Reach me through my email: h33jeong@uwaterloo.ca or through my personal email: jhajin273@gmail.com
+* I'm studying computer science at the University of Waterloo! I'm currently finishing up my 2nd year, going into my 3rd.
+* I enjoy listening to music, playing video games, going to the gym, and hopelessly watching the Knicks lose
 
 
-<!--
-**j7yn/j7yn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently working on 🔨
 
-Here are some ideas to get you started:
+* Frontend for my NBA Analytics Hub, a production-ready backend powered by FastAPI featuring basic NBA stats, advanced stats, player evolution, shot chart visualizations, and more!
+* A MacOS version of Everything (VoidTools) - a software that can easily find files on you mac much faster than the built-in search feature in Finder
+* AI/ML NBA analysis system using YOLO, OpenCV, and Python
+* A graphical engine featuring Projection, Culling, Lighting, Cameras & Clipping, and Texturing & Depth
+
+
+📫 Reach me through my email: h33jeong@uwaterloo.ca
 
