@@ -1,9 +1,10 @@
 # Hi, I'm Hajin Jeong 
 
 I'm interested in fullstack and backend development, alongside game design and graphical development
+
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,react,nodejs,nextjs,express,js,html,css,postgres,mysql,aws,azure,fastapi)](https://skillicons.dev)
 
-##### Currently Learning 📚
+#### Currently Learning 📚
 [![My Skills](https://skillicons.dev/icons?i=java,spring,flutter)](https://skillicons.dev)
 
 ### About Me 👾
@@ -20,5 +21,5 @@ I'm interested in fullstack and backend development, alongside game design and g
 * A graphical engine featuring Projection, Culling, Lighting, Cameras & Clipping, and Texturing & Depth
 
 
-📫 Reach me through my email: h33jeong@uwaterloo.ca
+### Reach me through my email: h33jeong@uwaterloo.ca
 
