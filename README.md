@@ -9,7 +9,7 @@ I'm interested in fullstack and backend development, alongside game design and g
 
 ### About Me 👾
 
-* I'm studying computer science at the University of Waterloo! I'm currently finishing up my 2nd year, going into my 3rd.
+* I'm studying computer science at the University of Waterloo! I'm currently in my 3rd year
 * I enjoy listening to music, playing video games, going to the gym, and hopelessly watching the Knicks lose
 
 
