@@ -17,7 +17,6 @@ I'm interested in fullstack and backend development, alongside game design and g
 
 * Frontend for my NBA Analytics Hub, a production-ready backend powered by FastAPI featuring basic NBA stats, advanced stats, player evolution, shot chart visualizations, and more!
 * A MacOS version of Everything (VoidTools) - a software that can easily find files on you mac much faster than the built-in search feature in Finder
-* AI/ML NBA analysis system using YOLO, OpenCV, and Python
 * A graphical engine featuring Projection, Culling, Lighting, Cameras & Clipping, and Texturing & Depth
 
 
